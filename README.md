@@ -310,7 +310,7 @@ The trained model checkpoints are not included in the public repository because 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wav2vec2-speech-recognition.git
+git clone https://github.com/Jomana-ElSaghier/wav2vec2-speech-recognition
 cd wav2vec2-speech-recognition
 ```
 

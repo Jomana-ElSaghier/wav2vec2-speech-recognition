@@ -444,8 +444,6 @@ This project was developed collaboratively by a six-member team.
 | Adam Fadel | Training Pipeline + Experiment Runner |
 | Maryam Ashraf | Documentation, experimentation, and project integration |
 
-> Replace **Member 1–6** with the actual names and exact responsibilities of the six team members.
-
 ---
 
 ## Conclusion
